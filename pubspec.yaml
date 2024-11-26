@@ -6,8 +6,8 @@ repository: https://github.com/chandrabezzo/flutter_dynamic_icon_plus
 issue_tracker: https://github.com/chandrabezzo/flutter_dynamic_icon_plus/issues
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
-  flutter: '>=3.3.0'
+  sdk: ">=2.19.5 <4.0.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
